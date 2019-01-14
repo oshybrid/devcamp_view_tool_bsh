@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DevcampViewTool::Renderer.copyright 'Brad Hutchins', 'All rights reserved'
+DevcampViewToolBsh::Renderer.copyright 'Brad Hutchins', 'All rights reserved'
 ```
 
 ## Development
